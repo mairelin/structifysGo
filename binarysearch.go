@@ -19,7 +19,3 @@ func BinarySearch(nums []int, target int) int {
 	}
 	return -1
 }
-
-func main() {
-	println(BinarySearch([]int{1, 3}, 3))
-}
